@@ -38,7 +38,7 @@ except ImportError as exc:  # pragma: no cover - startup guidance
 # ============================================================
 # НАСТРОЙКИ. ВПИШИТЕ ЗНАЧЕНИЯ ТОЛЬКО В ЭТИ СТРОКИ.
 # ============================================================
-DATABASE_URL = "postgresql://postgres:.222QTfp6Q#79tY@db.youlaigbankwxljbgwxc.supabase.co:5432/postgres"
+DATABASE_URL = "postgresql://postgres:4gLMDOmt16wYmgOa@db.youlaigbankwxljbgwxc.supabase.co:5432/postgres"
 ADMIN_API_TOKEN = "q8kP2vT1mL9xR4sZ7nA0cD6eF3gH5jK2"
 
 HOST = "0.0.0.0"
